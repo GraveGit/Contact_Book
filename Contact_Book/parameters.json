@@ -1,0 +1,42 @@
+{
+    "main": {
+        "geometry": "700x850",
+        "bg": "red",
+        "font": [
+            "Script",
+            14
+        ]
+    },
+    "create": {
+        "geometry": "500x350",
+        "bg": "pale green",
+        "font": [
+            "Comic Sans MS",
+            12
+        ]
+    },
+    "redact": {
+        "geometry": "500x350",
+        "bg": "pale green",
+        "font": [
+            "Comic Sans MS",
+            12
+        ]
+    },
+    "redact7": {
+        "geometry": "500x350",
+        "bg": "pale green",
+        "font": [
+            "Comic Sans MS",
+            12
+        ]
+    },
+    "parametr": {
+        "geometry": "550x400",
+        "bg": "pale green",
+        "font": [
+            "Comic Sans MS",
+            12
+        ]
+    }
+}
